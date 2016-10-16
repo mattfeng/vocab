@@ -120,3 +120,5 @@
 * viz
 * manic
 * verbotem
+* anodyne
+  * `a medicine used to relieve pain`
